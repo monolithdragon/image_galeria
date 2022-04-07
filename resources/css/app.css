@@ -1,0 +1,7 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'lightbox2/dist/css/lightbox.min.css';
+
+.card-img-top {
+    object-fit: cover;
+}
+
